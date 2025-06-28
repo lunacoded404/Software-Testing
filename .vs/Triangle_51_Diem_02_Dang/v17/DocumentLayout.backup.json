@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Downloads\\RiskOfRain\\drive-download-20250407T093135Z-001\\Triangle_51_Diem_02_Dang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49FF3C28-3C03-4C09-857E-BF681158F9C6}|Triangle_51_Diem_02_Dang\\Triangle_51_Diem_02_Dang.csproj|d:\\downloads\\riskofrain\\drive-download-20250407t093135z-001\\triangle_51_diem_02_dang\\triangle_51_diem_02_dang\\selenium_51_diem_02_dang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49FF3C28-3C03-4C09-857E-BF681158F9C6}|Triangle_51_Diem_02_Dang\\Triangle_51_Diem_02_Dang.csproj|solutionrelative:triangle_51_diem_02_dang\\selenium_51_diem_02_dang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49FF3C28-3C03-4C09-857E-BF681158F9C6}|Triangle_51_Diem_02_Dang\\Triangle_51_Diem_02_Dang.csproj|d:\\downloads\\riskofrain\\drive-download-20250407t093135z-001\\triangle_51_diem_02_dang\\triangle_51_diem_02_dang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49FF3C28-3C03-4C09-857E-BF681158F9C6}|Triangle_51_Diem_02_Dang\\Triangle_51_Diem_02_Dang.csproj|solutionrelative:triangle_51_diem_02_dang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49FF3C28-3C03-4C09-857E-BF681158F9C6}|Triangle_51_Diem_02_Dang\\Triangle_51_Diem_02_Dang.csproj|d:\\downloads\\riskofrain\\drive-download-20250407t093135z-001\\triangle_51_diem_02_dang\\triangle_51_diem_02_dang\\selenium_51_diem_02_dang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{49FF3C28-3C03-4C09-857E-BF681158F9C6}|Triangle_51_Diem_02_Dang\\Triangle_51_Diem_02_Dang.csproj|solutionrelative:triangle_51_diem_02_dang\\selenium_51_diem_02_dang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61EE18A9-1EF5-4E67-AE50-7CF2BDE78CE0}|TriangleTester_51_Diem_02_Dang\\TriangleTester_51_Diem_02_Dang.csproj|d:\\downloads\\riskofrain\\drive-download-20250407t093135z-001\\triangle_51_diem_02_dang\\triangletester_51_diem_02_dang\\unittest_51_diem_02_dang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61EE18A9-1EF5-4E67-AE50-7CF2BDE78CE0}|TriangleTester_51_Diem_02_Dang\\TriangleTester_51_Diem_02_Dang.csproj|solutionrelative:triangletester_51_diem_02_dang\\unittest_51_diem_02_dang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49FF3C28-3C03-4C09-857E-BF681158F9C6}|Triangle_51_Diem_02_Dang\\Triangle_51_Diem_02_Dang.csproj|D:\\Downloads\\RiskOfRain\\drive-download-20250407T093135Z-001\\Triangle_51_Diem_02_Dang\\triangle_51_diem_02_dang\\form_51_diem_02_dang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{49FF3C28-3C03-4C09-857E-BF681158F9C6}|Triangle_51_Diem_02_Dang\\Triangle_51_Diem_02_Dang.csproj|solutionrelative:triangle_51_diem_02_dang\\form_51_diem_02_dang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49FF3C28-3C03-4C09-857E-BF681158F9C6}|Triangle_51_Diem_02_Dang\\Triangle_51_Diem_02_Dang.csproj|D:\\Downloads\\RiskOfRain\\drive-download-20250407T093135Z-001\\Triangle_51_Diem_02_Dang\\triangle_51_diem_02_dang\\form_51_diem_02_dang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49FF3C28-3C03-4C09-857E-BF681158F9C6}|Triangle_51_Diem_02_Dang\\Triangle_51_Diem_02_Dang.csproj|solutionrelative:triangle_51_diem_02_dang\\form_51_diem_02_dang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Downloads\\RiskOfRain\\drive-download-20250407T093135Z-001\\Triangle_51_Diem_02_Dang\\Triangle_51_Diem_02_Dang\\Program.cs",
+              "RelativeDocumentMoniker": "Triangle_51_Diem_02_Dang\\Program.cs",
+              "ToolTip": "D:\\Downloads\\RiskOfRain\\drive-download-20250407T093135Z-001\\Triangle_51_Diem_02_Dang\\Triangle_51_Diem_02_Dang\\Program.cs",
+              "RelativeToolTip": "Triangle_51_Diem_02_Dang\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:09:09.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Selenium_51_Diem_02_Dang.cs",
+              "DocumentMoniker": "D:\\Downloads\\RiskOfRain\\drive-download-20250407T093135Z-001\\Triangle_51_Diem_02_Dang\\Triangle_51_Diem_02_Dang\\Selenium_51_Diem_02_Dang.cs",
+              "RelativeDocumentMoniker": "Triangle_51_Diem_02_Dang\\Selenium_51_Diem_02_Dang.cs",
+              "ToolTip": "D:\\Downloads\\RiskOfRain\\drive-download-20250407T093135Z-001\\Triangle_51_Diem_02_Dang\\Triangle_51_Diem_02_Dang\\Selenium_51_Diem_02_Dang.cs*",
+              "RelativeToolTip": "Triangle_51_Diem_02_Dang\\Selenium_51_Diem_02_Dang.cs*",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAmwJIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T05:26:46.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Selenium_51_Diem_02_Dang.cs [Design]",
+              "DocumentMoniker": "D:\\Downloads\\RiskOfRain\\drive-download-20250407T093135Z-001\\Triangle_51_Diem_02_Dang\\Triangle_51_Diem_02_Dang\\Selenium_51_Diem_02_Dang.cs",
+              "RelativeDocumentMoniker": "Triangle_51_Diem_02_Dang\\Selenium_51_Diem_02_Dang.cs",
+              "ToolTip": "D:\\Downloads\\RiskOfRain\\drive-download-20250407T093135Z-001\\Triangle_51_Diem_02_Dang\\Triangle_51_Diem_02_Dang\\Selenium_51_Diem_02_Dang.cs [Design]*",
+              "RelativeToolTip": "Triangle_51_Diem_02_Dang\\Selenium_51_Diem_02_Dang.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T05:26:29.476Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest_51_Diem_02_Dang.cs",
+              "DocumentMoniker": "D:\\Downloads\\RiskOfRain\\drive-download-20250407T093135Z-001\\Triangle_51_Diem_02_Dang\\TriangleTester_51_Diem_02_Dang\\UnitTest_51_Diem_02_Dang.cs",
+              "RelativeDocumentMoniker": "TriangleTester_51_Diem_02_Dang\\UnitTest_51_Diem_02_Dang.cs",
+              "ToolTip": "D:\\Downloads\\RiskOfRain\\drive-download-20250407T093135Z-001\\Triangle_51_Diem_02_Dang\\TriangleTester_51_Diem_02_Dang\\UnitTest_51_Diem_02_Dang.cs",
+              "RelativeToolTip": "TriangleTester_51_Diem_02_Dang\\UnitTest_51_Diem_02_Dang.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowF8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T17:20:44.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "form_51_Diem_02_Dang.cs",
+              "DocumentMoniker": "D:\\Downloads\\RiskOfRain\\drive-download-20250407T093135Z-001\\Triangle_51_Diem_02_Dang\\Triangle_51_Diem_02_Dang\\form_51_Diem_02_Dang.cs",
+              "RelativeDocumentMoniker": "Triangle_51_Diem_02_Dang\\form_51_Diem_02_Dang.cs",
+              "ToolTip": "D:\\Downloads\\RiskOfRain\\drive-download-20250407T093135Z-001\\Triangle_51_Diem_02_Dang\\Triangle_51_Diem_02_Dang\\form_51_Diem_02_Dang.cs",
+              "RelativeToolTip": "Triangle_51_Diem_02_Dang\\form_51_Diem_02_Dang.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA4wCMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:27:23.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "form_51_Diem_02_Dang.cs [Design]",
+              "DocumentMoniker": "D:\\Downloads\\RiskOfRain\\drive-download-20250407T093135Z-001\\Triangle_51_Diem_02_Dang\\Triangle_51_Diem_02_Dang\\form_51_Diem_02_Dang.cs",
+              "RelativeDocumentMoniker": "Triangle_51_Diem_02_Dang\\form_51_Diem_02_Dang.cs",
+              "ToolTip": "D:\\Downloads\\RiskOfRain\\drive-download-20250407T093135Z-001\\Triangle_51_Diem_02_Dang\\Triangle_51_Diem_02_Dang\\form_51_Diem_02_Dang.cs [Design]",
+              "RelativeToolTip": "Triangle_51_Diem_02_Dang\\form_51_Diem_02_Dang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T14:19:54.394Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
